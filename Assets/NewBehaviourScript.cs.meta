@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d858790567600fb499f8afc266e53585
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goodSpeak: {fileID: 8300000, guid: b9b257046128b7540a9cb7815af2600f, type: 3}
+  - normalSpeak: {fileID: 8300000, guid: 2d8803a2befec7840bd484d3b13fc9ee, type: 3}
+  - badSpeak: {fileID: 8300000, guid: cc5d78d5bc96b5b4f912c5416f6c1639, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
